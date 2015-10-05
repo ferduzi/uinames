@@ -134,6 +134,12 @@
         "exceptions": [["/^(.*) (.*)$/", "$2 $1"]]
     },
     {
+        "country": "Indonesia",
+        "male": ["Aan", "Aditya", "Agung", "Agus", "Ahmad", "Andika", "Bambang", "Bayu", "Budi", "Dedi", "Dwiki", "Eko", "Erwin", "Fajar", "Indra", "Irvan", "Joko", "Mahmud", "Pandu", "Putra", "Risang", "Rizki", "Trianto", "Wahyu", "Wawan"],
+        "female": ["Annisa", "Ayu", "Citra", "Dewi", "Diah", "Dian", "Dwina", "Eka", "Fitri", "Ina", "Indah", "Juwita", "Kartika", "Lestari", "Marni", "Mira", "Nurul", "Putri", "Rita", "Rizki", "Sari", "Sheila", "Sulistya", "Tria", "Wulandari"],
+        "surnames": ["", "Abdullah", "Agustian", "Akyuwen", "Alatas", "Alhamid", "Aprilian", "Aritonang", "Baswedan", "Besouw", "Darmadji", "Febrian", "Goenawan", "Halim", "Hamzah", "Handojo", "Hasibuan", "Hehanussa", "Herman", "Hidajat", "Hutapea", "Joenoes", "Kaligis", "Kallaij", "Kandou", "Karamoy", "Kaunang", "Koesoemawidjaja", "Kurnia", "Latumeten", "Loekman", "Louhenapessy", "Lumbangaol", "Lumenta", "Mamuaja", "Manuhutu", "Moeljana", "Mogot", "Muntahar", "Nababan", "Nasution", "Nikijuluw", "Noegroho", "Novian", "Oktavian", "Pangestoe", "Panjaitan", "Pattinaya", "Poespo", "Ratulangi", "Ratuliu", "Rieuwpassa", "Sahuleka", "Septian", "Setiawan", "Siagian", "Sianipar", "Silalahi", "Simatupang", "Sinaga", "Siregar", "Sjarief", "Soedibjo", "Sondakh", "Sungkar", "Supit", "Tanoesoedibjo", "Tendean", "Tiahahu", "Tjahjo", "Tjandra", "Tobing", "Wattimena", "Waworuntu", "Wiraatmadja"]
+    },
+    {
         "country": "India",
         "male": ["Aarav", "Aaryan", "Abhinav", "Aditya", "Ajay", "Amit", "Arjun", "Arnav", "Ayaan", "Chirag", "Devansh", "Dhruv", "Hemant", "Ishan", "Muhammad", "Pranav", "Rajesh","Rakesh", "Reyansh", "Sai", "Shaurya", "Shreyas", "Tejas", "Vibhore", "Vihaan", "Vishal", "Vivaan"],
         "female": ["Aadhya", "Aanya", "Aaradhya", "Ananya", "Angel", "Anika", "Ankita", "Aradhya", "Charvi", "Cheshta", "Diya", "Divya", "Hansika", "Harini", "Navya", "Pari","Paridhi", "Ridhi", "Rishika", "Saanvi", "Sanvi", "Shreya","Surabhi", "Trisha", "Trishla"],
